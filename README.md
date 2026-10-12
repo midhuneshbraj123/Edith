@@ -3,7 +3,9 @@ A clean, beginner-friendly desktop application built in Python for the Stardance
 
 Features: 
 Modern Interface: Designed using `customtkinter` for a sleek dark-mode look.
+
 Supported Languages: Translate smoothly between Hindi, English, Spanish, French, German, and Dutch.
+
 Easy Controls: Includes straightforward text boxes, language dropdowns, and buttons for translating and clearing text.
 
 Prerequisites
