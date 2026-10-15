@@ -1,3 +1,5 @@
+from email.mime import text
+
 import customtkinter as ctk
 from deep_translator import MyMemoryTranslator
 
@@ -32,9 +34,12 @@ languages = {
     "English": "en-GB",
     "German": "de-DE",
     "French": "fr-FR",
-    "Hindi": "hi-IN",
     "Spanish": "es-ES",
-    "Dutch": "nl-NL"
+    "Hindi": "hi-IN",
+    "Malayalam": "ml-IN",
+    "Tamil": "ta-IN",
+    "Telugu": "te-IN",
+    "Kannada": "kn-IN"
 }
 
 lang_names = list(languages.keys())
