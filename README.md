@@ -1,5 +1,5 @@
 # Edith
-A clean, beginner-friendly desktop application built in Python for the Stardance Challenge. This app provides a simple graphical interface to translate text between popular languages instantly.
+A clean, beginner-friendly desktop application built in Python for the Stardance Challenge. This app provides a simple graphical interface to translate text between popular languages instantly. Especially, This app helps those who visit India because there are many languages for India and some of them are in this app to translate!
 
 Features:
 
