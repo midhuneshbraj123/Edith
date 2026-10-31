@@ -24,3 +24,6 @@ python app.py
 Project Structure
 `app.py`: The main Python file containing the user interface setup and Google translation logic.
 `README.md`: Project documentation and guide.
+
+<img width="1917" height="1077" alt="readme" src="https://github.com/user-attachments/assets/3b2f02a3-a1d8-4ee3-b067-f88fb8bccb46" />
+![App Screenshot](screenshot.png)
